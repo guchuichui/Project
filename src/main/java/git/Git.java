@@ -7,6 +7,9 @@ public class Git {
         System.out.println("hot-fix");
         System.out.println("啦啦啦啦");
         System.out.println("git");
+        System.out.println("git");
+        System.out.println("git");
+        System.out.println("git");
 
     }
 }
